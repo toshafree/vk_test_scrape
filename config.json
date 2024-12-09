@@ -2,7 +2,7 @@
   "index_name": "test_viking2",
   "start_urls": [
     {
-      "url": "https://fkviking.github.io/bot-doc/docs/"
+      "url": "https://fkviking.github.io/bot-doc/"
     }
   ],
   "selectors": {
